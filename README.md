@@ -4,6 +4,7 @@
 
 ## 사용기술
 1. Python 3.11
+2. 실행환경 : pyenv 가상화환경, jupyter notebook
 2. llm-model : gpt-4o
 3. document loader : Docx2txtLoader
 4. chunck: langchain_text_splitters > RecursiveCharacterTextSplitter
