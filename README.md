@@ -9,4 +9,4 @@
 3. document loader : Docx2txtLoader
 4. chunck: langchain_text_splitters > RecursiveCharacterTextSplitter
 5. embedding : upstageEbedding
-6. vectorDB : chroma
+6. vectorDB : chroma, pinecone
